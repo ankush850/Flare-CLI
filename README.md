@@ -1,13 +1,36 @@
 <div align="center">
 
-## Flare-CLI
-<br>
+  <h1>Flare-CLI</h1>
+  <br>
 
-<img src="https://github.com/ankush850/Flare-CLI/blob/dbbc08a0bd696111f21e8680d1695ff12eff55c1/Flare-CLI.png" width="300"/>
+  <img src="https://github.com/ankush850/Flare-CLI/blob/dbbc08a0bd696111f21e8680d1695ff12eff55c1/Flare-CLI.png" width="300" alt="Flare-CLI Logo"/>
 
-*Debug Faster. Fix Smarter*
+  <p><em>Debug Faster. Fix Smarter.</em></p>
+
+  <br>
+
+  <h2>🏆 Achievements</h2>
+  <h3>🥇 3× Hackathon Winner</h3>
+
+  <p>
+    Flare-CLI has won <strong>3 hackathons</strong>, recognizing its
+    approach to AI-powered incident response, intelligent log analysis,
+    and voice-based SRE assistance.
+  </p>
+
+  <p>
+    🏆 <strong>Hackathon Wins:</strong> 3<br>
+    🚀 <strong>Project:</strong> AI-Powered AWS Incident Triage &amp; Voice Assistant<br>
+    🧠 <strong>Core Technologies:</strong> Amazon Nova, AWS Lambda,
+    CloudWatch, Amazon Bedrock, and Amazon Connect
+  </p>
 
 </div>
+
+---
+```
+
+
 
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/release/python-3120/)
